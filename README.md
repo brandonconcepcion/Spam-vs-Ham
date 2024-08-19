@@ -1,6 +1,9 @@
 # Spam vs. Ham
 
-Using logistic regression, I created a classifier to distinguish between spam (junk, commercial, or bulk) emails and ham (non-spam) ones.
+## What do 'spam' and 'ham' mean? 
+* Spam (1) emails are unsolicited or bulk messages, often commercial in nature, while ham (0) emails are legitimate, non-spam communications. This is the repo of the classifier I built for this project
+
+
 
 ## Tools:
 * Python 
