@@ -1,7 +1,6 @@
 # Spam vs. Ham
 
-Using logistic regression, I created a classifier which distinguishes between spam (junk, commercial, or bulk) emails from ham (non-spam) ones. 
-
+Using logistic regression, I created a classifier to distinguish between spam (junk, commercial, or bulk) emails and ham (non-spam) ones.
 
 ## Tools and Skills: 
 - Logistic Regression
